@@ -1,0 +1,6 @@
+.vim
+.clangd
+compile_commands.json
+*.dep
+*.o
+*.a
