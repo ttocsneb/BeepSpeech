@@ -1,0 +1,7 @@
+<map id="phonetics::IRule" name="phonetics::IRule">
+<area shape="rect" id="node2" href="$classphonetics_1_1PassthroughRule.html" title="Passthrough Rule will allow a matching string to pass through without modification. " alt="" coords="189,5,376,32"/>
+<area shape="rect" id="node3" href="$classphonetics_1_1RegexPassthroughRule.html" title="Regex Passthrough will return the matched regex without any modification. " alt="" coords="171,56,395,83"/>
+<area shape="rect" id="node4" href="$classphonetics_1_1RegexReplaceRule.html" title="The Regex Replace Rule will replace the first group in the match with a new value. " alt="" coords="183,107,382,133"/>
+<area shape="rect" id="node5" href="$classphonetics_1_1RegexRule.html" title="A regex based rule that returns a constant if it matches with the regex. " alt="" coords="207,157,358,184"/>
+<area shape="rect" id="node6" href="$classphonetics_1_1SimpleRule.html" title="A simple rule that matches a string, and returns another. " alt="" coords="206,208,359,235"/>
+</map>
